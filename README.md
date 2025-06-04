@@ -13,7 +13,7 @@
 - Clean, semantic HTML structure
 
 ## 💻 Live Demo
-[Click here to view](https://yourusername.github.io/mini-gadget-store/) (if hosted with GitHub Pages)
+[Click here to view](file:///C:/Users/suhit/OneDrive/Desktop/PROJECTS/GADGET%20HUB/index.html) (if hosted with GitHub Pages)
 
 ---
 
